@@ -1,0 +1,28 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+      
+        
+        
+        int b = 8;
+        int c = 4;
+        
+        
+        int w = b + c ;
+        
+        int o = b * c ;
+        
+        int z = b == c ;
+        
+        
+         System.out.println(w);
+         
+         System.out.println(o);
+         
+         System.out.println(z);
+        
+        
+        
+        
+     }
+}
